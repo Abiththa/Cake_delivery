@@ -1,0 +1,48 @@
+<resources>
+
+    <!--General App logo-->
+    <string name="app_name">Cake Delivery</string>
+    <string name="start_button_text">Start</string>
+
+    <!--Login page-->
+    <string name="login">Log In</string>
+    <string name="email_hint">Enter Email</string>
+    <string name="password_hint">Enter Password</string>
+
+    <!--signup page-->
+
+    <string name="signup">Sign up</string>
+    <string name="Full_Name">Full Name</string>
+    <string name="New_password">Enter Password</string>
+
+    <!--Home page-->
+    <string name="HiEva">Hi Abish</string>
+    <string name="SearcHCAKE">Search Cake</string>
+    <string name="Home">Home</string>
+    <string name="Order">Order</string>
+    <string name="Account">Account</string>
+    <string name="ViewAll">View all</string>
+    <string name="SearchCake">Search Cake</string>
+    <string name="Fullname">Full Name</string>
+    <string name="password">Password</string>
+    <string name="create">Create new password</string>
+    <string name="Cart">Add products</string>
+
+    <!-- Cake Details -->
+    <string name="cake_name">Chocolate Truffle Cake</string>
+    <string name="cake_price">LKR 1450</string>
+
+    <!-- Buttons -->
+    <string name="btn_decrease_quantity">-</string>
+    <string name="btn_increase_quantity">+</string>
+    <string name="btn_customize">Customize</string>
+    <string name="btn_add_to_cart">Add to Cart</string>
+
+    <!-- Tags -->
+    <string name="label_with_egg">With Egg</string>
+    <string name="label_eggless">Eggless</string>
+
+    <!-- Cake Description -->
+    <string name="cake_description_title">Cake Description</string>
+    <string name="cake_description">The Chilled Chocolate Ganache is Rolled into Balls and Then Coated in Cocoa Powder, Coconut, or Chopped and Toasted Nuts.</string>
+</resources>

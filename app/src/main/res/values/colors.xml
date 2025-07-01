@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="primaryColor">#FF5722</color>
+    <color name="secondaryColor">#F4A261</color>
+    <color name="accentColor">#FFB703</color>
+    <color name="backgroundColor">#FFFFFF</color>
+    <color name="textColor">#333333</color>
+    <color name="backgroundcolor">#FFE4E1</color>
+    <color name="Homebackgroundcolor">#FF1493</color>
+    <color name="mainbuttoncolor">#FF1493</color>
+    <color name="Hometextcolor">#CA4A74</color>
+    <color name="ViewAll">#6750A4</color>
+    <color name="Textno">#B00020</color>
+    <color name="witheggbutton">#99cc00</color>
+    <color name="successtext">#FF69B4</color>
+
+    <color name="colorPrimary">#FFE4E1</color>
+
+    <!-- Secondary background color  -->
+    <color name="colorSecondary">#333333</color>
+
+    <!-- Accent color  -->
+    <color name="colorAccent">#B00020</color>
+
+</resources>
